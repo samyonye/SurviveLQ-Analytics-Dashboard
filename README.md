@@ -17,7 +17,7 @@ The goal is to understand which factors influenced survival the most, and how pa
 Story of the Data
 The dataset analyzed in this dashboard is based on a simulated or expanded version of historical maritime passenger records, likely inspired by the Titanic dataset often used in data science projects. It includes:
 Key Fields:
-Total Passengers: 5 million simulated entries
+Total Passengers: 3 Thousand simulated entries
 Total Survived: 1,483 individuals
 Survival Rate: ~49%
 Passenger Demographics: Age group (adult, child, senior, middle age, teenager), sex
